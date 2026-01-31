@@ -1,0 +1,5 @@
+{
+  "name": "Gomoku Online",
+  "description": "A strategic 5-in-a-row board game implementation with adjustable board sizes, undo functionality, and local scoreboard persistence.",
+  "requestFramePermissions": []
+}
